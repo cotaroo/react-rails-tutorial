@@ -63,3 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Use React
 gem 'react-rails', '~> 1.0'
+
+#Use Markdown
+gem 'marked-rails'
